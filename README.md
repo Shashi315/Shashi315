@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shashi315
 - 👀 I’m interested in coding community
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning JAVA, Data Structured Algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
